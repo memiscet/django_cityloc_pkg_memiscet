@@ -10,7 +10,7 @@ sys.path.insert(0,os.path.abspath('.'))
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'django_cityloc_pkg_memiscet'
+project = 'django_cityloc_pkg_memiscet1'
 copyright = '2022, Memis Cetinkaya'
 author = 'Memis Cetinkaya'
 release = '0.0.1'
